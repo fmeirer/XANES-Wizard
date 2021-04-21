@@ -5,6 +5,7 @@ Matlab App for handling hyperspectral image data, mainly, but not only, for XANE
 I am constantly updating the code to implement other file formats and functionalities as well - suggestions are welcome.
 
 Main articles:
+
 -) TXM-Wizard: a program for advanced data collection and evaluation in full-field transmission X-ray microscopy, Journal of Synchrotron Radiation, 19, 281-287. (2012)
 http://scripts.iucr.org/cgi-bin/paper_yard?hf5192
 
@@ -16,9 +17,15 @@ http://scripts.iucr.org/cgi-bin/paper?ie5055
 
 
 Features:
+
 -) hyperspectral image handling
+
 -) background correction
+
 -) normalization
+
 -) image processing tools
+
 -) PCA and k-means clustering, including GMM-EM refinement
+
 -) ...
