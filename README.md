@@ -17,13 +17,8 @@ http://scripts.iucr.org/cgi-bin/paper?ie5055
 
 Features:
 -) hyperspectral image handling
-
 -) background correction
-
 -) normalization
-
 -) image processing tools
-
 -) PCA and k-means clustering, including GMM-EM refinement
-
 -) ...
