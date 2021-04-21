@@ -14,10 +14,16 @@ http://link.springer.com/article/10.1007%2Fs00216-012-5818-9
 -) Three-dimensional imaging of chemical phase transformations at the nanoscale with full-field transmission X-ray microscopy, Journal of Synchrotron Radiation, 18, 773-781. (2011)
 http://scripts.iucr.org/cgi-bin/paper?ie5055
 
-Features
+
+Features:
 -) hyperspectral image handling
+
 -) background correction
+
 -) normalization
+
 -) image processing tools
+
 -) PCA and k-means clustering, including GMM-EM refinement
+
 -) ...
