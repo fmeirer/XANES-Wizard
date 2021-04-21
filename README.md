@@ -6,7 +6,7 @@ I am constantly updating the code to implement other file formats and functional
 
 Please cite these references to cite if you use this software:
 
-Main refernce:
+Main reference:
 
 -) TXM-Wizard: a program for advanced data collection and evaluation in full-field transmission X-ray microscopy, Journal of Synchrotron Radiation, 19, 281-287. (2012)
 http://scripts.iucr.org/cgi-bin/paper_yard?hf5192
