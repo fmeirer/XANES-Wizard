@@ -5,13 +5,9 @@ Matlab App for handling hyperspectral image data, mainly, but not only, for XANE
 I am constantly updating the code to implement other file formats and functionalities as well - suggestions are welcome.
 
 Required toolboxes in Matlab to run the app:
-
 'Optimization Toolbox', 
-
 'Image Processing Toolbox', 
-
 'Statistics and Machine Learning Toolbox', 
-
 'Parallel Computing Toolbox'
 
 
