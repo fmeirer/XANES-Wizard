@@ -4,6 +4,12 @@ Current version of the XANES-Wizard Matlab App
 Matlab App for handling hyperspectral image data, mainly, but not only, for XANES image data, that is, X-ray transmission image data collected using the Xradia TXM system.
 I am constantly updating the code to implement other file formats and functionalities as well - suggestions are welcome.
 
+Required toolboxes in Matlab to run the app:
+    'Optimization Toolbox'
+    'Image Processing Toolbox'
+    'Statistics and Machine Learning Toolbox'
+    'Parallel Computing Toolbox'
+
 Please cite these references to cite if you use this software:
 
 Main reference:
